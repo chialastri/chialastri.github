@@ -33,8 +33,9 @@ github_username:  jekyll
 # Build settings
 theme: minima
 plugins:
-  - jekyll-feed
-  - jekyll-theme-hamilton
+  - jekyll-remote-theme
+
+remote_theme: ngzhio/jekyll-theme-hamilton
 
 # Exclude from processing.
 # The following items will not be processed, by default.
