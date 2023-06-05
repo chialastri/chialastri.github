@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "È tricchi"
 date:   2023-06-05 22:59:07 +0200
 categories: jekyll update
 ---
